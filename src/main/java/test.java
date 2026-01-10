@@ -1,11 +1,11 @@
-public class GoodCode {
+class test {
 
-    public String getMessage() {
-        return "Code smell";
+    String getMessage() {
+        return "OK";
     }
 
     public static void main(String[] args) {
-        GoodCode code = new GoodCode();
-        System.out.println(code.getMessage());
+        test t = new test();
+        System.out.println(t.getMessage());
     }
 }
