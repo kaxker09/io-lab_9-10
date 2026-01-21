@@ -1,5 +1,6 @@
+package wat.io;
+
 import org.junit.jupiter.api.Test;
-import wat.io.App;
 
 import static org.junit.jupiter.api.Assertions.*;
 
